@@ -2,7 +2,7 @@
 ## Antes de empezar:
 Completa tus datos personales en la siguiente tabla:
 -------------------------
-| Nombres  | Apellidos  | CI   |
+| ENRIQUE FERNANDO  | TINTAYA CONDORI  | CI   |
 | -------- | ---------- | ---- |
 | `nombre` | `apellido` | `ci` |
 
